@@ -38,7 +38,6 @@ Araçların kısa açıklamaları ve her biri için doğrudan bağlantılar içe
 - 💼 [LinkedIn](https://www.linkedin.com/in/woxicdev)  
 - 🐦 [Twitter / X](https://twitter.com/tasvantali)  
 
-> 💡 Sosyal medya hesaplarınızı yukarıdaki bağlantılara ekleyerek bu repoyu kimliğinizle ilişkilendirebilirsiniz.
 
 ---
 
