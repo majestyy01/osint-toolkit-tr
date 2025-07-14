@@ -1,0 +1,58 @@
+OSINT ve Sosyal Mühendislik Araçları Rehberi
+Hazırlayan: Mert Ali Kaya | Tarih: 2025-07-14
+
+---
+
+📦 MODÜL 1 – Arşiv & Zaman Makinesi
+1. Wayback Machine – https://web.archive.org
+2. Archive.today – https://archive.today
+3. Memento Time Travel – https://timetravel.mementoweb.org
+4. URLscan.io – https://urlscan.io
+
+🔎 MODÜL 2 – Görsel Tersine Arama & Metadata
+5. TinEye – https://tineye.com
+6. Google Lens Web – https://lens.google.com
+7. Bing Visual Search – https://www.bing.com/visualsearch
+8. Yandex Images – https://yandex.com/images
+9. ExifTool – https://exiftool.org
+10. FotoForensics – https://fotoforensics.com
+
+👥 MODÜL 3 – Sosyal Medya & Kişi Avı
+11. Twint (CLI) – https://github.com/twintproject/twint
+12. Social Searcher – https://www.social-searcher.com
+13. Sherlock (CLI) – https://github.com/sherlock-project/sherlock
+14. Namecheckr – https://namecheckr.com
+15. Have I Been Pwned – https://haveibeenpwned.com
+16. DeHashed – https://www.dehashed.com
+17. ShadowDragon SocialNet – https://shadowdragon.io
+
+🌐 MODÜL 4 – Alan Adı, IP & Altyapı Keşfi
+18. Shodan – https://www.shodan.io
+19. Censys – https://search.censys.io
+20. ZoomEye – https://www.zoomeye.org
+21. dnsdumpster – https://dnsdumpster.com
+22. WhoisXML API – https://www.whoisxmlapi.com
+23. BuiltWith – https://builtwith.com
+24. Metagoofil (CLI) – https://github.com/laramies/metagoofil
+
+🗄️ MODÜL 5 – Dosya & Kötücül İçerik Analizi
+25. VirusTotal – https://www.virustotal.com
+26. MetaDefender Cloud – https://metadefender.opswat.com
+27. Hybrid-Analysis – https://www.hybrid-analysis.com
+28. FOCA (GUI) – https://www.elevenpaths.com/labstools/foca/index.html
+29. Onyphe – https://www.onyphe.io
+30. Mitaka (Tarayıcı eklentisi) – https://github.com/NISoLab/mitaka
+
+🛰️ MODÜL 6 – Harita, Jeointel & Görsel Doğrulama
+31. Google Earth Pro – https://www.google.com/earth/versions/#earth-pro
+32. Mapillary – https://www.mapillary.com
+33. Sentinel Hub EO Browser – https://apps.sentinel-hub.com/eo-browser
+34. Creepy (lokasyon analiz aracı) – https://github.com/ilektrojohn/creepy
+35. GeoTips (script) – https://github.com/ghunt-dev/Ghunt
+
+🕵️‍♂️ MODÜL 7 – Otomasyon & Framework
+36. SpiderFoot – https://www.spiderfoot.net
+37. Recon-ng – https://github.com/lanmaster53/recon-ng
+38. TheHarvester – https://github.com/laramies/theHarvester
+39. OSINT Framework – https://osintframework.com
+40. VenariX Alert Bot – https://venarix.io
